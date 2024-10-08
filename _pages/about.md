@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋I am Jiaxi Li, a first-year Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June, 2024.
+Hi there👋I am Jiaxi Li, a first-year Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
 My research interests lie in Large Language Models (LLMs), and particularly in their reasoning abilities. I also have experience in applying LLMs to healthcare applications. 
 <!-- My research interests lie in Machine Learning and Machine Reasoning, particularly in Large Language Models and their applications in Healthcare. -->
