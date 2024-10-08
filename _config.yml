@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxi Li"
-description              : "A student"
+description              : "Focus on Large Language Models"
 repository               : "plusnli/plusnli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaxi Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focus on Large Language Models"
+  bio              : "A student"
   # location         : "Beijing, China"
   employer         :
   pubmed           : 
