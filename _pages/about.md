@@ -26,8 +26,8 @@ My research interests lie in Large Language Models (LLMs), and particularly in t
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* &nbsp;🎉🎉 Our Evaluation Report on OpenAI o1 is available in [arXiv](https://arxiv.org/pdf/2409.18486).
 
 # 📝 Publications 
 
