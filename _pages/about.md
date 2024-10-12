@@ -19,10 +19,11 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a first-year Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Large Language Models (LLMs), and particularly in their reasoning abilities. I also have experience in Retrieval-Augmented Generation (RAG). For the application, I have experience in applying LLMs and RAG to the doamins of healthcare and law. 
+My research interests lie in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), and particularly in LLM reasoning.
+For the application, I have experience in applying LLMs and RAG to the doamins of healthcare and law. 
 
 I am currently working on the following projects:
-- LLM Reasoning: I am working on LLM post-training and system-2 reasoning, with the ultimate goal of reproducing the abilities of OpenAI o1.
+- LLM Reasoning: I am working on LLM post-training and system-2 reasoning, with the ultimate goal of chasing the abilities of OpenAI o1.
 - Healthcare: To evaluate how knowledgable of LLMs in healthcare and medical problems.
 <!-- I also have experience in applying LLMs to healthcare applications.  -->
 <!-- My research interests lie in Machine Learning and Machine Reasoning, particularly in Large Language Models and their applications in Healthcare. -->
