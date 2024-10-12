@@ -19,43 +19,53 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a first-year Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Large Language Models (LLMs), and particularly in their reasoning abilities. I also have experience in applying LLMs to healthcare applications. 
-<!-- My research interests lie in Machine Learning and Machine Reasoning, particularly in Large Language Models and their applications in Healthcare. -->
+My research interests lie in Large Language Models (LLMs), and particularly in their reasoning abilities. I also have experience in Retrieval-Augmented Generation (RAG). For the application, I have experience in applying LLMs and RAG to the doamins of healthcare and law. 
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+I am currently working on the following projects:
+- LLM Reasoning: I am working on LLM post-training and system-2 reasoning, with the ultimate goal of reproducing the abilities of OpenAI o1.
+- Healthcare: To evaluate how knowledgable of LLMs in healthcare and medical problems.
+<!-- I also have experience in applying LLMs to healthcare applications.  -->
+<!-- My research interests lie in Machine Learning and Machine Reasoning, particularly in Large Language Models and their applications in Healthcare. -->
 
 
 # 🔥 News
-- *2024.10* &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* &nbsp;🔜🔜 Our paper HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization is submitted to ICLR 2025.
 - *2024.09* &nbsp;🎉🎉 Our Evaluation Report on OpenAI o1 is available in [arXiv](https://arxiv.org/pdf/2409.18486).
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICLR 2025</div><img src='../images/helene.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://openreview.net/forum?id=zuOnOAHBMy&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Huaqin Zhao*, **Jiaxi Li***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou, Tianming Liu, Jin Lu (Equal Contribution)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) -->
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce HELENE (Hessian Layer-wise Clipping and Gradient Annealing), an optimization algorithm to accelerate fine-tuning large language models (LLMs) with zeroth-order optimization. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.06 - present*, University of Georgia.
+- *2024.06 - now*, University of Georgia.
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - now*, TMLR Group, Hong Kong Baptist University (Remote), working with [Zhanke Zhou](https://andrewzhou924.github.io/).
+- *2024.06 - now*, UCLA (remote), working with Dr.Yiwei Wang.
+
+
+# 🎖 Honors and Awards
+- *2024.06* Outstanding graduate of Shandong Province.
+- *2023.11* Three times (2021, 2022, 2023) of Third Prize of the Academic Excellence Award, Shandong University.
+
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
