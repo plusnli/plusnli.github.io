@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaxi Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "A student"
-  location         : "Beijing, China"
+  avatar           : "images/jx_square.png"
+  bio              : "Anything can't kill you only makes you stronger."
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
