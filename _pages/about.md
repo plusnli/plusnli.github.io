@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋I am Jiaxi Li, a first-year Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
+<!-- a first-year Ph.D. student at the University of Georgia. -->
+Hi there👋I am Jiaxi Li. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
 My research interests lie in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), and particularly in LLM reasoning.
 For their applications, I have experience in applying LLMs and RAG to the doamins of healthcare and law. I also worked on Graph Neural Networks (GNNs) before.
