@@ -61,7 +61,7 @@ Huaqin Zhao$^*$, **Jiaxi Li$^*$**, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou,
 
 # 💻 Internships
 - *2024.03 - now*, TMLR Group led by Dr. [Bo Han](https://bhanml.github.io/), Hong Kong Baptist University, working with [Zhanke Zhou](https://andrewzhou924.github.io/) (remote).
-- *2024.07 - 2024.10*, UCLA, working with Dr. [Yiwei Wang](https://wangywust.github.io/) (remote).
+- *2024.08 - 2024.10*, UCLA, working with Dr. [Yiwei Wang](https://wangywust.github.io/) (remote).
 
 
 # 🎖 Honors and Awards
