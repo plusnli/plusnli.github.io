@@ -33,11 +33,12 @@ Currently I'm working on the following projects:
 # 🔥 News
 <!-- - *2024.10* &nbsp;🔜🔜 Our paper HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization is available in arxiv. -->
 - *2024.10* &nbsp;🔜🔜 One paper submitted to ICLR 2025 (Equal Contribution).
-- *2024.09* &nbsp;🎉🎉 Our Evaluation Report on OpenAI o1 is available in [arXiv](https://arxiv.org/pdf/2409.18486).
+<!--- *2024.09* &nbsp;🎉🎉 Our Evaluation Report on OpenAI o1 is available in [arXiv](https://arxiv.org/pdf/2409.18486). -->
 
 
 # 📝 Selected Publications
 Coming soon!
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/helene.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
