@@ -24,8 +24,8 @@ My research interests lie in Large Language Models (LLMs) and Retrieval-Augmente
 For their applications, I have experience in applying LLMs and RAG to the doamins of healthcare and law. I also worked on Graph Neural Networks (GNNs) before.
 
 Currently I'm working on the following projects:
-- LLM Reasoning: I am working on LLM post-training and system-2 reasoning, with the ultimate goal of chasing the abilities of OpenAI o1.
-- Healthcare: To evaluate how knowledgable of LLMs in healthcare and medical problems.
+- LLM Reasoning: I am working on searching algorithms and post-training for LLM system-2 reasoning.
+- Healthcare: To evaluate how knowledgeable of LLMs in healthcare and medical problems.
 <!-- I also have experience in applying LLMs to healthcare applications.  -->
 <!-- My research interests lie in Machine Learning and Machine Reasoning, particularly in Large Language Models and their applications in Healthcare. -->
 
