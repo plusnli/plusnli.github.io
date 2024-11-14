@@ -58,11 +58,12 @@ Huaqin Zhao$^*$, **Jiaxi Li$^*$**, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='./data/graph_llm_reasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph-LLM-Reasoner: A graph extraction approach for LLM to solve complex reasoning problems.]
+[Graph-LLM-Reasoner]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Description**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce HELENE (Hessian Layer-wise Clipping and Gradient Annealing), an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization.
+- We build graph-llm-reasoner, a framework for LLM to solve complex reasoning problems.
+- We extract rations from the problem and generate a graph representation of the problem, on which LLMs can probe and reason for the problem.
 </div>
 </div>
 
