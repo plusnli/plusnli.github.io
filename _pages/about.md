@@ -54,7 +54,7 @@ Huaqin Zhao$^*$, **Jiaxi Li$^*$**, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou,
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🔨 Projects
+# 🔨 Selected Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">project</div><img src='data/graph_llm_reasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
