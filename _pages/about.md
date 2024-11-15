@@ -58,10 +58,11 @@ Huaqin Zhao$^*$, **Jiaxi Li$^*$**, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">project</div><img src='data/graph_llm_reasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Graph-LLM-Reasoner
+Graph-LLM-Reasoner (Collaboration with [TMLR Group](https://bhanml.github.io/))
 
 [**Description**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We construct an interesting reasoning benchmark based on theft scenarios which tests the limitation of LLMs’ logical reasoning abilities.
 - We build graph-llm-reasoner, a framework for LLM to solve complex reasoning problems.
 - We extract rations from the problem and generate a graph representation of the problem, on which LLMs can probe and reason for the problem.
 </div>
