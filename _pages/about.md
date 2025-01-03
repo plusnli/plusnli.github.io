@@ -72,7 +72,7 @@ Graph-LLM-Reasoner (Intern in [TMLR Group](https://bhanml.github.io/))
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
-
+- *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
 
 <!-- # 💻 Internships
 - *2024.03 - now*, TMLR Group led by Dr. [Bo Han](https://bhanml.github.io/), Hong Kong Baptist University, working with [Zhanke Zhou](https://andrewzhou924.github.io/) (remote).
