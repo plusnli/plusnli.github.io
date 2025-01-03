@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- a first-year Ph.D. student at the University of Georgia. -->
-Hi there👋I am Jiaxi Li. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
+Hi there👋I am Jiaxi Li, a PhD student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), and particularly in LLM reasoning.
-For their applications, I have experience in applying LLMs and RAG to the doamins of healthcare and law. I also worked on Graph Neural Networks (GNNs) before.
+My research interests lie in Large Language Models (LLMs) and particularly in LLM reasoning.
+For their applications, I have experience in applying LLMs to the doamins of healthcare and law with RAG (Retrieval-augmented Generation). I also worked on Graph Neural Networks (GNNs) before.
 
 Currently I'm working on the following projects:
 - LLM Reasoning: I am working on searching algorithms and post-training for LLM system-2 reasoning.
@@ -54,7 +54,7 @@ Huaqin Zhao$^*$, **Jiaxi Li$^*$**, Yi Pan, Shizhe Liang, Xiaofeng Yang, Fei Dou,
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🔨 Projects
+<!-- # 🔨 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">project</div><img src='data/graph_llm_reasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,9 +63,9 @@ Graph-LLM-Reasoner
 [**Description**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We build graph-llm-reasoner, a framework for LLM to solve complex reasoning problems.
-- We extract rations from the problem and generate a graph representation of the problem, on which LLMs can probe and reason for the problem.
+- We extract rations from the problem and generate its graph representation, on which LLMs can probe and reason for the problem.
 </div>
-</div>
+</div> -->
 
 
 
@@ -73,16 +73,16 @@ Graph-LLM-Reasoner
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2024.03 - now*, TMLR Group led by Dr. [Bo Han](https://bhanml.github.io/), Hong Kong Baptist University, working with [Zhanke Zhou](https://andrewzhou924.github.io/) (remote).
-- *2024.08 - 2024.10*, UCLA, working with Dr. [Yiwei Wang](https://wangywust.github.io/) (remote).
-
-
-# 🎖 Honors and Awards
-- *2024.06* Outstanding graduate of Shandong Province.
-- *2021/2022/2023.11* Three times of Third Prize of the Academic Excellence Award, Shandong University.
+- *2024.08 - 2024.10*, UCLA, working with Dr. [Yiwei Wang](https://wangywust.github.io/) (remote). -->
 
 
 # 💬 Selected Presentations
 - *2023.10*, When do graph neural networks work on node classfication task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
 - *2024.10*, Scaling up test-time compute for LLMs reasoning. [\[Slides\]](./data/Scaling_LLM_Test-Time_Compute.pdf)
+
+
+# 🎖 Honors and Awards
+- *2024.06* Outstanding graduate of Shandong Province.
+- *2021/2022/2023.11* Three times of Third Prize of the Academic Excellence Award, Shandong University.
