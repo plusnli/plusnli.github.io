@@ -74,10 +74,6 @@ Graph-LLM-Reasoner (Intern in [TMLR Group](https://bhanml.github.io/))
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 - *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
 
-<!-- # 💻 Internships
-- *2024.03 - now*, TMLR Group led by Dr. [Bo Han](https://bhanml.github.io/), Hong Kong Baptist University, working with [Zhanke Zhou](https://andrewzhou924.github.io/) (remote).
-- *2024.08 - 2024.10*, UCLA, working with Dr. [Yiwei Wang](https://wangywust.github.io/) (remote). -->
-
 
 # 💬 Selected Presentations
 - *2023.10*, When do graph neural networks work on node classfication task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
