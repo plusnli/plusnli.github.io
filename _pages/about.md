@@ -21,7 +21,7 @@ redirect_from:
 Hi there👋I am Jiaxi Li, a PhD student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
 My research interests lie in Large Language Models (LLMs) and particularly in LLM reasoning.
-For their applications, I have experience in applying LLMs to the doamins of healthcare and law with RAG (Retrieval-augmented Generation). I also worked on Graph Neural Networks (GNNs) before.
+For their applications, I have experience in applying LLMs to the domains of healthcare and law with RAG (Retrieval-augmented Generation). I also worked on Graph Neural Networks (GNNs) before.
 
 Currently I'm working on the following projects:
 - LLM Reasoning: I am working on searching algorithms and post-training for LLM system-2 reasoning.
@@ -87,3 +87,4 @@ Graph-LLM-Reasoner (Intern in [TMLR Group](https://bhanml.github.io/))
 # 🎖 Honors and Awards
 - *2024.06* Outstanding graduate of Shandong Province.
 - *2021/2022/2023.11* Three times of Third Prize of the Academic Excellence Award, Shandong University.
+
