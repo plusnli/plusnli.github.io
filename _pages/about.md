@@ -30,7 +30,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='../images/helene.png' alt="sym" width="80%"></div></div>
+<img src='../images/helene.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
