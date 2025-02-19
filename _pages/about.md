@@ -33,17 +33,17 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
 
-Huaqin Zhao $^*$, **Jiaxi Li**$^*$, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu -->
+Huaqin Zhao$^*$, **Jiaxi Li**$^*$, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
+
+</div>
+</div>
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) -->
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - We introduce HELENE (Hessian Layer-wise Clipping and Gradient Annealing), an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization. -->
-</div>
-</div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 
 
 # 📖 Educations
