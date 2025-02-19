@@ -28,12 +28,20 @@ My research interests lie in Machine Reasoning and Large Language Models.
 <!-- # 📝 Selected Publications -->
 # 📝 Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/helene.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">Preprint</div>
+<img src='../images/helene.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
 
-Huaqin Zhao$^*$, **Jiaxi Li**$^*$, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
+Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
+
+<details>
+<summary>Quick Introduction</summary>
+We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for unbiased Hessian approximation and a layer-wise clipping mechanism for adaptive updates.
+
+</details>
 
 </div>
 </div>
@@ -44,6 +52,7 @@ Huaqin Zhao$^*$, **Jiaxi Li**$^*$, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu,
 <!-- - We introduce HELENE (Hessian Layer-wise Clipping and Gradient Annealing), an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization. -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 
 
 # 📖 Educations
@@ -58,5 +67,4 @@ Huaqin Zhao$^*$, **Jiaxi Li**$^*$, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu,
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding graduate of Shandong Province.
-<!-- - *2021/2022/2023.11* Three times of Third Prize of the Academic Excellence Award, Shandong University. -->
 
