@@ -62,7 +62,7 @@ We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs wi
 
 # 💬 Selected Presentations
 - *2023.10*, When do graph neural networks work on node classfication task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
-- *2024.10*, Scaling up test-time compute for LLM reasoning. [\[Slides\]](./data/Scaling_LLM_Test-Time_Compute.pdf)
+- *2024.10*, Scaling up test-time compute for LLM reasoning. [\[Slides\]](./data/Scaling_LLM_Test-Time_Compute_split.pdf)
 
 
 # 🎖 Honors and Awards
