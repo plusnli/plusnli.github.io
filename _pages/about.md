@@ -27,6 +27,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <!-- # 📝 Selected Publications -->
 # 📝 Publications and Preprints
+\* denotes Equal Contribution. 
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
