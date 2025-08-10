@@ -31,7 +31,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='../_pages/data/papers/symMPO.png' alt="sym" width="60%"></div></div>
+<img src='_pages/data/papers/symMPO.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)
@@ -44,19 +44,20 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 - Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
 
 - To this end, we propose Symmetric Multimodal Preference Optimization (SymMPO), which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
-
 </details>
+
 </div>
 </div>
 
 <!-- 
 MKJ:
 - codes and data open source in github
-- website in github -->
+- website in github
+- update arxiv -->
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='../_pages/data/papers/MKJ.pdf' alt="sym" width="70%"></div></div>
+<img src='_pages/data/papers/MKJ.pdf' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment](https://arxiv.org/abs/2502.14275)
@@ -71,7 +72,6 @@ MKJ:
 - Experiments reveal that LLMs struggle with accuracy, show poor calibration, and perform worse on rare medical concepts due to long-tail knowledge distribution and co-occurrence bias.
 
 - Retrieval-augmented generation significantly improves factual accuracy and reduces uncertainty, highlighting its potential for more reliable LLM use in medical scenarios.
-
 </details>
 </div>
 </div>
@@ -80,7 +80,7 @@ MKJ:
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='../_pages/data/papers/helene.png' alt="sym" width="70%"></div></div>
+<img src='_pages/data/papers/helene.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
