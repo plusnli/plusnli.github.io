@@ -32,7 +32,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 <div class='paper-box'>
 <div class='paper-box-image'><div>
   <div class="badge">Preprint</div>
-  <img src='images/papers/SymMPO.png' alt="sym" width="85%">
+  <img src='images/papers/SymMPO.png' alt="sym" width="78%">
 </div></div>
 
 <div class='paper-box-text' markdown="1">
@@ -46,7 +46,7 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 - Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
 
-- To this end, we propose Symmetric Multimodal Preference Optimization (SymMPO), which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
+- To this end, we propose **Symmetric Multimodal Preference Optimization (SymMPO)**, which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
 </details>
 
 </div>
@@ -61,7 +61,7 @@ MKJ:
 <div class='paper-box'>
 <div class='paper-box-image'><div>
   <div class="badge">Preprint</div>
-  <img src='images/papers/MKJ.png' alt="sym" width="85%">
+  <img src='images/papers/MKJ.png' alt="sym" width="78%">
 </div></div>
 
 <div class='paper-box-text' markdown="1">
@@ -85,9 +85,12 @@ MKJ:
  
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">Preprint</div>
-<img src='images/papers/helene.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <div class="badge">Preprint</div>
+  <img src='images/papers/helene.png' alt="sym" width="72%">
+</div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
@@ -97,7 +100,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 <details markdown="1">
 <summary>TL; DR...</summary>
 
-- We introduce HELENE, an optimizer to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an annealed Asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for diagonal Hessian approximation and a layer-wise clipping mechanism for curvature-aware updates.
+- We introduce **HELENE**, an optimizer to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an annealed Asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for diagonal Hessian approximation and a layer-wise clipping mechanism for curvature-aware updates.
 
 - HELENE delivers up to 20× faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
 </details>
