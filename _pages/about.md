@@ -31,7 +31,53 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='../images/helene.png' alt="sym" width="70%"></div></div>
+<img src='../_pages/data/papers/symMPO.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)
+
+Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yin, Liqiang Nie
+
+<details>
+<summary>TL; DR...</summary>
+
+- Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
+- To this end, we propose Symmetric Multimodal Preference Optimization (SymMPO), which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
+
+</details>
+</div>
+</div>
+
+<!-- 
+MKJ:
+- codes and data open source in github
+- website in github -->
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">Preprint</div>
+<img src='../_pages/data/papers/MKJ.pdf' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment](https://arxiv.org/abs/2502.14275)
+
+**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
+
+<details>
+<summary>TL; DR...</summary>
+
+- We introduce the **Medical Knowledge Judgment (MKJ)** dataset, built from Knowledge Graphs of UMLS into one-hop questions, to directly evaluate LLMs' factuality of medical knowledge without confounding reasoning effects.
+- Experiments reveal that LLMs struggle with accuracy, show poor calibration, and perform worse on rare medical concepts due to long-tail knowledge distribution and co-occurrence bias.
+- Retrieval-augmented generation significantly improves factual accuracy and reduces uncertainty, highlighting its potential for more reliable LLM use in medical scenarios.
+
+</details>
+</div>
+</div>
+ 
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">Preprint</div>
+<img src='../_pages/data/papers/helene.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
@@ -39,21 +85,13 @@ My research interests lie in Machine Reasoning and Large Language Models.
 Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
 
 <details>
-<summary>Quick Introduction</summary>
+<summary>TL; DR...</summary>
+
 We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for unbiased Hessian approximation and a layer-wise clipping mechanism for adaptive updates.
 
 </details>
-
 </div>
 </div>
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) -->
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - We introduce HELENE (Hessian Layer-wise Clipping and Gradient Annealing), an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization. -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 
 
 # 📖 Educations
