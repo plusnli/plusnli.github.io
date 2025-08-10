@@ -97,7 +97,9 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 <details markdown="1">
 <summary>TL; DR...</summary>
 
-We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for unbiased Hessian approximation and a layer-wise clipping mechanism for adaptive updates.
+- We introduce HELENE, an optimizer to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an annealed Asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for diagonal Hessian approximation and a layer-wise clipping mechanism for curvature-aware updates.
+
+- HELENE delivers up to 20× faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
 </details>
 
 </div>
