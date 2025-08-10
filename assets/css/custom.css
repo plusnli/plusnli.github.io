@@ -1,0 +1,24 @@
+.paper-box{
+  display:flex;
+  align-items:flex-start;
+  gap:12px;                 /* 控制左右间距 */
+}
+
+.paper-box-image{
+  flex:0 0 auto;            /* 按内容收缩 */
+  margin-right:12px;
+  width:auto;               /* 覆盖主题预设的宽度（若有） */
+}
+
+.paper-box-image img{
+  display:block;
+  width:240px;              /* 你想要的图宽 */
+  max-width:100%;
+  height:auto;
+  border-radius:6px;
+}
+
+.paper-box-text{
+  flex:1 1 0;
+  margin-left:0;            /* 去掉主题可能加的额外左外边距 */
+}

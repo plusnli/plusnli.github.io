@@ -48,7 +48,6 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 - To this end, we propose **Symmetric Multimodal Preference Optimization (SymMPO)**, which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
 </details>
-
 </div>
 </div>
 
@@ -79,7 +78,6 @@ MKJ:
 
 - Retrieval-augmented generation significantly improves factual accuracy and reduces uncertainty, highlighting its potential for more reliable LLM use in medical scenarios.
 </details>
-
 </div>
 </div>
  
@@ -104,7 +102,6 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 
 - HELENE delivers up to 20× faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
 </details>
-
 </div>
 </div>
 
