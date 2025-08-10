@@ -113,11 +113,10 @@ We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs wi
 
 <a href="https://clustrmaps.com/site/1c67i"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=V1E3PnXJSHWsLUVDYM88W42GIHb_kUaZXn5ehZkrHCk&cl=ffffff" /></a>
 
-<style>
+<!-- <style>
 .paper-box-image {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-</style>
-
+</style> -->
