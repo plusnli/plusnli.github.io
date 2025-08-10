@@ -29,9 +29,12 @@ My research interests lie in Machine Reasoning and Large Language Models.
 # 📝 Publications and Preprints
 \* Equal Contribution; $\dagger$ Corresponding Author.
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">Preprint</div>
-<img src='images/papers/SymMPO.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <div class="badge">Preprint</div>
+  <img src='images/papers/SymMPO.png' alt="sym" width="85%">
+</div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)
@@ -55,16 +58,19 @@ MKJ:
 - website in github
 - update arxiv -->
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">Preprint</div>
-<img src='images/papers/MKJ.pdf' alt="sym" width="75%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <div class="badge">Preprint</div>
+  <img src='images/papers/MKJ.png' alt="sym" width="85%">
+</div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment](https://arxiv.org/abs/2502.14275)
 
 **Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
 
-<details>
+<details markdown="1">
 <summary>TL; DR...</summary>
 
 - We introduce the **Medical Knowledge Judgment (MKJ)** dataset, built from Knowledge Graphs of UMLS into one-hop questions, to directly evaluate LLMs' factuality of medical knowledge without confounding reasoning effects.
@@ -73,6 +79,7 @@ MKJ:
 
 - Retrieval-augmented generation significantly improves factual accuracy and reduces uncertainty, highlighting its potential for more reliable LLM use in medical scenarios.
 </details>
+
 </div>
 </div>
  
@@ -80,19 +87,19 @@ MKJ:
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='_pages/data/papers/helene.png' alt="sym" width="70%"></div></div>
+<img src='images/papers/helene.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
 
 Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
 
-<details>
+<details markdown="1">
 <summary>TL; DR...</summary>
 
 We introduce HELENE, an optimization algorithm to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for unbiased Hessian approximation and a layer-wise clipping mechanism for adaptive updates.
-
 </details>
+
 </div>
 </div>
 
