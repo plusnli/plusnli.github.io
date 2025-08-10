@@ -31,7 +31,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">Preprint</div>
-<img src='_pages/data/papers/symMPO.png' alt="sym" width="60%"></div></div>
+<img src='assets/images/papers/SymMPO.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)
@@ -41,9 +41,9 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 <details>
 <summary>TL; DR...</summary>
 
-* Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
+- Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
 
-* To this end, we propose Symmetric Multimodal Preference Optimization (SymMPO), which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
+- To this end, we propose Symmetric Multimodal Preference Optimization (SymMPO), which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
 
 </details>
 
