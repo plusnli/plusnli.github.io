@@ -3,7 +3,7 @@
     display: flex;
     align-items: flex-start;
     gap: 6.5px;                 /* 控制间距 */
-    flex-wrap: nowrap;        /* 防止换行 */
+    flex-wrap: wrap;        /* 允许换行 - same as in main.scss */
   }
   
   /* 使用嵌套选择器，权重更高 */
