@@ -37,7 +37,7 @@
     }
     
     .paper-box .paper-box-text {
-      padding-left: 0.7em;    /* padding-left -> 0.7em (previous: 2em) */
+      padding-left: 1.3em;    /* padding-left -> 1.3em (previous: 2em) */
       max-width: 65%;         /* text width -> 65% of the container width (previous: 60%) */
     }
   }
