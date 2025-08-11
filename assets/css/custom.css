@@ -9,9 +9,9 @@
   /* 使用嵌套选择器，权重更高 */
   .paper-box .paper-box-image {
     flex: 0 0 auto;
-    margin-right: 0;          /* 确保没有右边距 */
+    margin-right: 0;          /* 没有右边距 */
     width: auto;
-    order: 1;                 /* 确保图片在左边 */
+    order: 2;                 /* 图片在右边 */
   }
   
   .paper-box .paper-box-image img {
@@ -26,7 +26,7 @@
     flex: 1 1 0;
     margin-left: 0;
     padding-left: 0;      /* padding-left -> 0 (previous: 0) */
-    order: 2;                 /* 确保文字在右边 */
+    order: 1;                 /* 文字在左边 */
   }
   
   /* 针对不同屏幕尺寸的响应式调整 */
@@ -34,10 +34,12 @@
     .paper-box .paper-box-image {
         min-width: 200px;
         max-width: 35%;        /* image width -> 35% of the container width (previous: 40%) */
+        order: 1;
     }
     
     .paper-box .paper-box-text {
       padding-left: 1.28em;    /* padding-left -> 1.28em (previous: 2em) */
       max-width: 65%;         /* text width -> 65% of the container width (previous: 60%) */
+      order: 2;
     }
   }
