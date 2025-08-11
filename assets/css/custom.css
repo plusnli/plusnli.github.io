@@ -2,7 +2,7 @@
 .paper-box {
     display: flex;
     align-items: flex-start;
-    flex-direction: row;
+    flex-direction: column;
     gap: 6.5px;                 /* 控制间距 */
     flex-wrap: wrap;        /* 允许换行 - same as in main.scss */
   }
@@ -33,6 +33,11 @@
   /* 针对不同屏幕尺寸的响应式调整 */
   /* for medium screen and above: modified the image and text width by Jiaxi. */
   @media screen and (min-width: 768px) {
+    .paper-box {
+      display: flex;
+      gap: 6.5px;
+    }
+
     .paper-box .paper-box-image {
         min-width: 200px;
         max-width: 35%;        /* image width -> 35% of the container width (previous: 40%) */
