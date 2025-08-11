@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaxi Li"
   avatar           : "images/jx_picture.png"
-  bio              :   # Focus on Large Language Models
+  bio              : ""  # Focus on Large Language Models
   location         : 
   employer         :
   pubmed           : 
