@@ -67,18 +67,19 @@
         order: 1;
     }
     
+    /* for medium screen and above: modified the image and text width by Jiaxi. */
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 35%;    /* image width -> 35% of the container width (previous: 40%) */
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 0.5em;    /* padding-left -> 0.5em (previous: 2em) */
+            max-width: 65%;    /* text width -> 65% of the container width (previous: 60%) */
             order: 2;
         }
 
