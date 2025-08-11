@@ -1,24 +1,43 @@
-.paper-box{
-    display:flex;
-    align-items:flex-start;
-    gap:8px;                  /* 减小间距到8px */
+/* 使用更具体的选择器来覆盖 main.scss 中的样式 */
+.paper-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;                 /* 控制间距 */
+    flex-wrap: nowrap;        /* 防止换行 */
   }
   
-  .paper-box-image{
-    flex:0 0 auto;            /* 按内容收缩 */
-    /* 删除 margin-right，避免重复间距 */
-    width:auto;               /* 覆盖主题预设的宽度（若有） */
+  /* 使用嵌套选择器，权重更高 */
+  .paper-box .paper-box-image {
+    flex: 0 0 auto;
+    margin-right: 0;          /* 确保没有右边距 */
+    width: auto;
+    order: 1;                 /* 确保图片在左边 */
   }
   
-  .paper-box-image img{
-    display:block;
-    width:240px;              /* 你想要的图宽 */
-    max-width:100%;
-    height:auto;
-    border-radius:6px;
+  .paper-box .paper-box-image img {
+    display: block;
+    width: 240px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
   }
   
-  .paper-box-text{
-    flex:1 1 0;
-    margin-left:0;            /* 去掉主题可能加的额外左外边距 */
+  .paper-box .paper-box-text {
+    flex: 1 1 0;
+    margin-left: 0;
+    padding-left: 0;          /* 覆盖padding */
+    order: 2;                 /* 确保文字在右边 */
+  }
+  
+  /* 针对不同屏幕尺寸的响应式调整 */
+  @media screen and (min-width: 768px) {
+    .paper-box .paper-box-image {
+        min-width: 200px;
+        max-width: 35%;        /* image width -> 35% of the container width (previous: 40%) */
+    }
+    
+    .paper-box .paper-box-text {
+      padding-left: 0.1em;    /* padding-left -> 0.1em (previous: 2em) */
+      max-width: 65%;         /* text width -> 65% of the container width (previous: 60%) */
+    }
   }
