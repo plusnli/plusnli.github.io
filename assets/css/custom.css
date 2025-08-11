@@ -2,14 +2,14 @@
 .paper-box {
     display: flex;
     align-items: flex-start;
-    gap: 8px;                 /* 控制间距 */
+    gap: 6.5px;                 /* 控制间距 */
     flex-wrap: nowrap;        /* 防止换行 */
   }
   
   /* 使用嵌套选择器，权重更高 */
   .paper-box .paper-box-image {
     flex: 0 0 auto;
-    margin-right: 0;          /* 确保没有右边距 */
+    margin-right: 0.1em;          /* 确保没有右边距 */
     width: auto;
     order: 1;                 /* 确保图片在左边 */
   }
