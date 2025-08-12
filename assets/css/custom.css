@@ -76,14 +76,19 @@
 /* 大屏幕进一步优化 */
 @media screen and (min-width: 1200px) {
   .paper-box .paper-box-image {
-      flex: 0 0 32%;                     /* 大屏幕适当调整：29% -> 32% */
-      max-width: 32%;
-      min-width: 190px;                  /* 适中最小宽度 */
+      flex: 0 0 220px;                   /* 大屏幕稍微增加图片宽度 */
+      width: 220px;
+      min-width: 220px;
+      max-width: 220px;
+  }
+  
+  .paper-box .paper-box-image img {
+      width: 220px;                      /* 对应调整图片宽度 */
+      height: 130px;                     /* 稍微增加高度 */
   }
   
   .paper-box .paper-box-text {
-      max-width: 68%;                    /* 相应调整：71% -> 68% */
-      padding-left: 1.1em;               /* 稍微增加间距 */
+      padding-left: 24px;                /* 大屏幕稍微增加间距 */
   }
 }
 
@@ -128,8 +133,5 @@
 
 /* 强制统一图片容器的宽度 */
 @media screen and (min-width: 768px) {
-  .paper-box .paper-box-image img {
-      min-width: 100%;                /* 确保图片填满容器 */
-      max-width: 100%;                /* 限制最大宽度 */
-  }
+  /* 图片和文字间距的统一规则已在上方桌面端样式中定义 */
 }
