@@ -1,0 +1,68 @@
+/* 重置并重新定义 paper-box 样式 */
+.paper-box {
+  display: flex !important;
+  flex-direction: column;       /* 默认移动端：垂直排列 */
+  align-items: flex-start;
+  gap: 8px;
+  border-bottom: 1px #efefef solid;
+  padding: 1.5em 0 1.5em 0;
+  flex-wrap: nowrap;           /* 防止换行 */
+}
+
+/* 移动端样式：文本在上，图片在下 */
+.paper-box .paper-box-text {
+  order: 1;                    /* 文本优先显示 */
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.paper-box .paper-box-image {
+  order: 2;                    /* 图片在后 */
+  width: 85%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-right: 0;
+}
+
+.paper-box .paper-box-image img {
+  max-width: 400px;
+  width: 85%;
+  height: auto;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+
+/* 中等屏幕及以上：图片在左，文本在右 */
+@media screen and (min-width: 768px) {
+  .paper-box {
+      flex-direction: row !important;    /* 水平排列 */
+      align-items: flex-start;
+  }
+  
+  .paper-box .paper-box-image {
+      order: 1;                          /* 图片在左 */
+      flex: 0 0 35%;                     /* 固定占35%宽度 */
+      max-width: 35%;
+      min-width: 200px;
+      justify-content: flex-start;
+      margin-right: 0;
+  }
+  
+  .paper-box .paper-box-image img {
+      width: 100%;
+      max-width: 100%;
+  }
+  
+  .paper-box .paper-box-text {
+      order: 2;                          /* 文本在右 */
+      flex: 1;                           /* 占剩余空间 */
+      max-width: 65%;
+      padding-left: 1.28em;              /* 左侧间距 */
+      margin-left: 0;
+  }
+}
