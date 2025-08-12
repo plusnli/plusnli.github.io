@@ -76,15 +76,16 @@
 /* 大屏幕进一步优化 */
 @media screen and (min-width: 1200px) {
   .paper-box .paper-box-image {
-      flex: 0 0 220px;                   /* 大屏幕稍微增加图片宽度 */
+      flex: 0 0 220px;                   /* 大屏幕稍微增加水平长度 */
       width: 220px;
       min-width: 220px;
       max-width: 220px;
   }
   
   .paper-box .paper-box-image img {
-      width: 220px;                      /* 对应调整图片宽度 */
-      height: 130px;                     /* 稍微增加高度 */
+      width: 220px;                      /* 对应调整水平长度 */
+      height: auto;                      /* 高度自适应 */
+      max-height: 160px;                 /* 稍微增加最大高度限制 */
   }
   
   .paper-box .paper-box-text {
