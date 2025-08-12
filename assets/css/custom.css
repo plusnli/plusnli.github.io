@@ -31,9 +31,10 @@
 .paper-box .paper-box-image img {
   max-width: 320px;             /* 适中图片大小：280px -> 320px（原版400px） */
   width: 100%;
-  height: auto;
+  height: 180px;                /* 移动端固定高度 */
   box-shadow: 2px 3px 5px #8a8a8a; /* 适中阴影：介于轻重之间 */
   object-fit: cover;
+  object-position: center;      /* 居中裁剪 */
   border-radius: 5px;           /* 适中圆角：4px -> 5px（原版6px） */
 }
 
@@ -55,10 +56,11 @@
   }
   
   .paper-box .paper-box-image img {
-      width: 100%;
+      width: 100%;                       /* 宽度统一填满容器 */
       max-width: 100%;
-      max-height: 160px;                 /* 适中高度限制：140px -> 160px */
-      object-fit: cover;                 /* 确保图片比例正确 */
+      height: 120px;                     /* 固定高度，统一所有图片 */
+      object-fit: cover;                 /* 裁剪图片以适应固定尺寸 */
+      object-position: center;           /* 居中裁剪 */
   }
   
   .paper-box .paper-box-text {
@@ -116,4 +118,18 @@
   font-size: 0.78em;                  /* 适中字体：0.75em -> 0.78em */
   margin-top: 0.4em;                  /* 适中上边距：0.3em -> 0.4em */
   margin-left: -0.4em;                /* 适中左边距：-0.3em -> -0.4em */
+}
+
+/* 图片尺寸统一规则 - 确保所有图片宽度一致 */
+.paper-box .paper-box-image {
+  display: flex;
+  align-items: flex-start;            /* 图片顶部对齐 */
+}
+
+/* 强制统一图片容器的宽度 */
+@media screen and (min-width: 768px) {
+  .paper-box .paper-box-image img {
+      min-width: 100%;                /* 确保图片填满容器 */
+      max-width: 100%;                /* 限制最大宽度 */
+  }
 }
