@@ -29,12 +29,11 @@
 }
 
 .paper-box .paper-box-image img {
-  max-width: 320px;             /* 适中图片大小：280px -> 320px（原版400px） */
+  max-width: 360px;             /* 适当增大移动端图片：320px -> 360px */
   width: 100%;
-  height: 180px;                /* 移动端固定高度 */
+  height: auto;                 /* 高度自适应，保持原始比例 */
   box-shadow: 2px 3px 5px #8a8a8a; /* 适中阴影：介于轻重之间 */
-  object-fit: cover;
-  object-position: center;      /* 居中裁剪 */
+  object-fit: contain;          /* 完整显示图片，不裁剪 */
   border-radius: 5px;           /* 适中圆角：4px -> 5px（原版6px） */
 }
 
@@ -76,16 +75,17 @@
 /* 大屏幕进一步优化 */
 @media screen and (min-width: 1200px) {
   .paper-box .paper-box-image {
-      flex: 0 0 220px;                   /* 大屏幕稍微增加水平长度 */
-      width: 220px;
-      min-width: 220px;
-      max-width: 220px;
+      flex: 0 0 320px;                   /* 大屏幕增大水平长度：220px -> 320px */
+      width: 320px;
+      min-width: 320px;
+      max-width: 320px;
   }
   
   .paper-box .paper-box-image img {
-      width: 220px;                      /* 对应调整水平长度 */
-      height: auto;                      /* 高度自适应 */
-      max-height: 160px;                 /* 稍微增加最大高度限制 */
+      width: 320px;                      /* 对应调整水平长度 */
+      height: auto;                      /* 高度自适应，保持原始比例 */
+      max-height: 220px;                 /* 适当增加最大高度限制 */
+      object-fit: contain;               /* 完整显示图片，不裁剪 */
   }
   
   .paper-box .paper-box-text {
@@ -130,9 +130,4 @@
 .paper-box .paper-box-image {
   display: flex;
   align-items: flex-start;            /* 图片顶部对齐 */
-}
-
-/* 强制统一图片容器的宽度 */
-@media screen and (min-width: 768px) {
-  /* 图片和文字间距的统一规则已在上方桌面端样式中定义 */
 }
