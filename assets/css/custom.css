@@ -5,7 +5,7 @@
   align-items: flex-start;
   gap: 8px;
   border-bottom: 1px #efefef solid;
-  padding: 1.7em 0 1.7em 0;
+  padding: 1.5em 0 1.5em 0;
   flex-wrap: nowrap;           /* 防止换行 */
 }
 
@@ -20,7 +20,7 @@
 
 .paper-box .paper-box-image {
   order: 2;                    /* 图片在后 */
-  width: 100%;
+  width: 85%;
   max-width: 100%;
   display: flex;
   justify-content: center;
@@ -29,7 +29,7 @@
 
 .paper-box .paper-box-image img {
   max-width: 400px;
-  width: 100%;
+  width: 85%;
   height: auto;
   box-shadow: 3px 3px 6px #888;
   object-fit: cover;
