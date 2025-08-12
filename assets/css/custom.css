@@ -1,52 +1,68 @@
-/* 使用更具体的选择器来覆盖 main.scss 中的样式 */
+/* 重置并重新定义 paper-box 样式 */
 .paper-box {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 6.5px;                 /* 控制间距 */
-    flex-wrap: wrap;        /* 允许换行 - same as in main.scss */
+  display: flex !important;
+  flex-direction: column;       /* 默认移动端：垂直排列 */
+  align-items: flex-start;
+  gap: 8px;
+  border-bottom: 1px #efefef solid;
+  padding: 1.7em 0 1.7em 0;
+  flex-wrap: nowrap;           /* 防止换行 */
+}
+
+/* 移动端样式：文本在上，图片在下 */
+.paper-box .paper-box-text {
+  order: 1;                    /* 文本优先显示 */
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.paper-box .paper-box-image {
+  order: 2;                    /* 图片在后 */
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-right: 0;
+}
+
+.paper-box .paper-box-image img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+
+/* 中等屏幕及以上：图片在左，文本在右 */
+@media screen and (min-width: 768px) {
+  .paper-box {
+      flex-direction: row !important;    /* 水平排列 */
+      align-items: flex-start;
   }
   
-  /* 使用嵌套选择器，权重更高 */
   .paper-box .paper-box-image {
-    flex: 0 0 auto;
-    margin-right: 0;          /* 没有右边距 */
-    width: auto;
-    order: 2;                 /* 图片在右边 */
+      order: 1;                          /* 图片在左 */
+      flex: 0 0 35%;                     /* 固定占35%宽度 */
+      max-width: 35%;
+      min-width: 200px;
+      justify-content: flex-start;
+      margin-right: 0;
   }
   
   .paper-box .paper-box-image img {
-    display: block;
-    width: 240px;
-    max-width: 100%;
-    height: auto;
-    border-radius: 6px;
+      width: 100%;
+      max-width: 100%;
   }
   
   .paper-box .paper-box-text {
-    flex: 1 1 0;
-    margin-left: 0;
-    padding-left: 0;      /* padding-left -> 0 (previous: 0) */
-    order: 1;                 /* 文字在左边 */
+      order: 2;                          /* 文本在右 */
+      flex: 1;                           /* 占剩余空间 */
+      max-width: 65%;
+      padding-left: 1.28em;              /* 左侧间距 */
+      margin-left: 0;
   }
-  
-  /* 针对不同屏幕尺寸的响应式调整 */
-  /* for medium screen and above: modified the image and text width by Jiaxi. */
-  @media screen and (min-width: 768px) {
-    .paper-box {
-      display: flex;
-      gap: 6.5px;
-    }
-
-    .paper-box .paper-box-image {
-        min-width: 200px;
-        max-width: 35%;        /* image width -> 35% of the container width (previous: 40%) */
-        order: 1;
-    }
-    
-    .paper-box .paper-box-text {
-      padding-left: 1.28em;    /* padding-left -> 1.28em (previous: 2em) */
-      max-width: 65%;         /* text width -> 65% of the container width (previous: 60%) */
-      order: 2;
-    }
-  }
+}
