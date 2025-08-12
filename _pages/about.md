@@ -86,7 +86,7 @@ MKJ:
 <div class='paper-box'>
 <div class='paper-box-image'><div>
   <div class="badge">Preprint</div>
-  <img src='images/papers/helene.png' alt="sym" width="72%">
+  <img src='images/papers/helene_3.png' alt="sym" width="72%">
 </div></div>
 
 <div class='paper-box-text' markdown="1">
