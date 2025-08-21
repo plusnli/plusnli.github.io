@@ -22,9 +22,9 @@ Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtai
 My research interests lie in Machine Reasoning and Large Language Models. 
 
 
-# 🔥 News
+<!-- # 🔥 News
 
-- ***2025.08***, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference).
+- ***2025.08***, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference). -->
 
 
 <!-- # 📝 Selected Publications -->
