@@ -22,7 +22,9 @@ Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtai
 My research interests lie in Machine Reasoning and Large Language Models. 
 
 
-<!-- # 🔥 News -->
+# 🔥 News
+
+- *2025.08*, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference).
 
 
 <!-- # 📝 Selected Publications -->
@@ -85,7 +87,7 @@ MKJ:
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">Preprint</div>
+  <div class="badge">EMNLP 2025 (Main)</div>
   <img src='images/papers/helene_3.png' alt="sym" width="72%">
 </div></div>
 
@@ -106,7 +108,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 </div>
 
 
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 - *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
 
@@ -115,6 +117,8 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 - *2023.10*, When do graph neural networks work on node classfication task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
 - *2024.10*, Scaling up test-time compute for LLM reasoning. [\[Slides\]](./data/Scaling_LLM_Test-Time_Compute_split.pdf)
 
+# 📝 Services
+- Reviewer for ACL 2025, EMNLP 2025.
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding graduate of Shandong Province.
