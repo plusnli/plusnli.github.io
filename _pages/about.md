@@ -24,7 +24,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 # 🔥 News
 
-- *2025.08*, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference).
+- ***2025.08***, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference).
 
 
 <!-- # 📝 Selected Publications -->
@@ -53,11 +53,6 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 </div>
 </div>
 
-<!-- 
-MKJ:
-- codes and data open source in github
-- website in github
-- update arxiv -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
