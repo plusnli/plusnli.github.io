@@ -33,7 +33,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">Preprint</div>
+  <div class="badge">NeurIPS 2025</div>
   <img src='images/papers/SymMPO.png' alt="sym" width="78%">
 </div></div>
 
@@ -82,7 +82,7 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">EMNLP 2025 (Main)</div>
+  <div class="badge">EMNLP 2025 Main</div>
   <img src='images/papers/helene_3.png' alt="sym" width="72%">
 </div></div>
 
@@ -97,7 +97,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 
 - We introduce **HELENE**, an optimizer to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an annealed Asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for diagonal Hessian approximation and a layer-wise clipping mechanism for curvature-aware updates.
 
-- HELENE delivers up to 20× faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
+- HELENE delivers up to 20x faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
 </details>
 </div>
 </div>
