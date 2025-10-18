@@ -46,7 +46,7 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 <details markdown="1">
 <summary>TL; DR...</summary>
 
-- Previous multimodal DPO approaches to mitigate hallucination (e.g., mDPO) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
+- Previous multimodal DPO approaches to mitigate hallucination (e.g., [mDPO](https://aclanthology.org/2024.emnlp-main.460/)) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
 
 - To this end, we propose **Symmetric Multimodal Preference Optimization (SymMPO)**, which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
 </details>
