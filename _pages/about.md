@@ -103,7 +103,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 </div>
 
 
-# 📖 Education
+# 📖 Educations
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 - *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
 
