@@ -22,8 +22,7 @@ Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtai
 My research interests lie in Machine Reasoning and Large Language Models.
 
 
-<!-- # 📝 Selected Publications -->
-# 📝 Publications and Preprints
+# 📝 Selected Publications
 \* Equal Contribution; $\dagger$ Corresponding Author.
 
 <div class='paper-box'>
@@ -34,7 +33,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 <div class='paper-box-text' markdown="1">
 
 [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)<br>
-**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu<br>
+**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
 
 </div>
@@ -49,7 +48,7 @@ My research interests lie in Machine Reasoning and Large Language Models.
 <div class='paper-box-text' markdown="1">
 
 [MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information](https://arxiv.org/abs/2510.03632)<br>
-**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu, Ninghao Liu<br>
+**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
 *PAKDD 2026 (Oral)*. [[pdf](https://arxiv.org/pdf/2510.03632)] [[code](https://github.com/plusnli/MITS)]
 
 </div>
@@ -79,7 +78,7 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)<br>
-Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu<br>
+Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu$\dagger$<br>
 *EMNLP 2025 (Main)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
 
 </div>
@@ -94,7 +93,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 <div class='paper-box-text' markdown="1">
 
 [Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)<br>
-Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang<br>
+Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang$\dagger$<br>
 *npj Digital Medicine 2025*. [[pdf](https://www.nature.com/articles/s41746-025-02208-7)] [[code](https://github.com/plusnli/MedThink-Bench)]
 
 </div>
@@ -109,20 +108,20 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 <div class='paper-box-text' markdown="1">
 
 [Fact or Guesswork? Evaluating Large Language Models' Medical Knowledge with Structured One-Hop Judgments](https://arxiv.org/abs/2502.14275)<br>
-**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu<br>
+**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu$\dagger$<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2502.14275)] [[code](https://github.com/plusnli/medical-knowledge-judgment)]
 
 </div>
 </div>
 
 
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 - *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
 
 
 # 💬 Selected Presentations
-- *2023.10*, When do graph neural networks work on node classfication task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
+- *2023.10*, When do graph neural networks work on node classification task and when not? [\[Blog\]](https://hackmd.io/@QpKVe67xTdOFuQ9_s2hbyA/B1qSq09g6) [\[知乎\]](https://zhuanlan.zhihu.com/p/662077835)
 - *2024.10*, Scaling up test-time compute for LLM reasoning. [\[Slides\]](./data/Scaling_LLM_Test-Time_Compute_split.pdf)
 
 # 📝 Services
