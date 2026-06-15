@@ -134,5 +134,5 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 <!-- <a href="https://clustrmaps.com/site/1c67i"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=V1E3PnXJSHWsLUVDYM88W42GIHb_kUaZXn5ehZkrHCk&cl=ffffff" /></a> -->
 
 <!-- <body> -->
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8oxqaZwan6ZhrzE0dKxhHYPV-XRp2dmlI-i8QQP2xF4&cl=ffffff&w=300"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8oxqaZwan6ZhrzE0dKxhHYPV-XRp2dmlI-i8QQP2xF4&cl=ffffff&w=133"></script>
 <!-- </body> -->
