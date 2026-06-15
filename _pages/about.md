@@ -33,10 +33,8 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box-text' markdown="1">
 
-[Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)
-
-**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu
-
+[Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)<br>
+**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
 
 </div>
@@ -50,10 +48,8 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box-text' markdown="1">
 
-[MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information](https://arxiv.org/abs/2510.03632)
-
-**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu, Ninghao Liu
-
+[MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information](https://arxiv.org/abs/2510.03632)<br>
+**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu, Ninghao Liu<br>
 *PAKDD 2026 (Oral)*. [[pdf](https://arxiv.org/pdf/2510.03632)] [[code](https://github.com/plusnli/MITS)]
 
 </div>
@@ -67,10 +63,8 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box-text' markdown="1">
 
-[Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)
-
-Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yin, Liqiang Nie
-
+[Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712)<br>
+Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yin, Liqiang Nie<br>
 *NeurIPS 2025*. [[pdf](https://arxiv.org/pdf/2506.11712)] [[code](https://github.com/plusnli/SymMPO)]
 
 </div>
@@ -84,10 +78,8 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 <div class='paper-box-text' markdown="1">
 
-[HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)
-
-Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
-
+[HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)<br>
+Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu<br>
 *EMNLP 2025 (Main)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
 
 </div>
@@ -101,10 +93,8 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 
 <div class='paper-box-text' markdown="1">
 
-[Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)
-
-Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang
-
+[Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)<br>
+Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang<br>
 *npj Digital Medicine 2025*. [[pdf](https://www.nature.com/articles/s41746-025-02208-7)] [[code](https://github.com/plusnli/MedThink-Bench)]
 
 </div>
@@ -118,10 +108,8 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, C
 
 <div class='paper-box-text' markdown="1">
 
-[Fact or Guesswork? Evaluating Large Language Models' Medical Knowledge with Structured One-Hop Judgments](https://arxiv.org/abs/2502.14275)
-
-**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
-
+[Fact or Guesswork? Evaluating Large Language Models' Medical Knowledge with Structured One-Hop Judgments](https://arxiv.org/abs/2502.14275)<br>
+**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2502.14275)] [[code](https://github.com/plusnli/medical-knowledge-judgment)]
 
 </div>
