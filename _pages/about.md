@@ -19,12 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Machine Reasoning and Large Language Models. 
-
-
-<!-- # 🔥 News
-
-- ***2025.08***, [HELENE](https://arxiv.org/abs/2411.10696) is accepted by EMNLP 2025 (Main Conference). -->
+My research interests lie in Machine Reasoning and Large Language Models.
 
 
 <!-- # 📝 Selected Publications -->
@@ -43,13 +38,6 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yin, Liqiang Nie
 
-<details markdown="1">
-<summary>TL; DR...</summary>
-
-- Previous multimodal DPO approaches to mitigate hallucination (e.g., [mDPO](https://aclanthology.org/2024.emnlp-main.460/)) have faced scrutiny for non-rigorous optimization objective function and indirect preference supervision.
-
-- To this end, we propose **Symmetric Multimodal Preference Optimization (SymMPO)**, which introduces symmetric preference learning with direct supervision via response pairs, ensuring rigorous theoretical consistency with standard DPO.
-</details>
 </div>
 </div>
 
@@ -66,15 +54,6 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 **Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
 
-<details markdown="1">
-<summary>TL; DR...</summary>
-
-- We introduce the **Medical Knowledge Judgment (MKJ)** dataset, built from Knowledge Graphs of UMLS into one-hop questions, to directly evaluate LLMs' factuality of medical knowledge without confounding reasoning effects.
-
-- Experiments reveal that LLMs struggle with accuracy, show poor calibration, and perform worse on rare medical concepts due to long-tail knowledge distribution and co-occurrence bias.
-
-- Retrieval-augmented generation significantly improves factual accuracy and reduces uncertainty, highlighting its potential for more reliable LLM use in medical scenarios.
-</details>
 </div>
 </div>
  
@@ -92,13 +71,39 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
 
-<details markdown="1">
-<summary>TL; DR...</summary>
+</div>
+</div>
 
-- We introduce **HELENE**, an optimizer to accelerate fine-tuning LLMs with zeroth-order optimization by integrating an annealed Asymptotic Gauss-Newton-Bartlett (A-GNB) estimator for diagonal Hessian approximation and a layer-wise clipping mechanism for curvature-aware updates.
 
-- HELENE delivers up to 20x faster convergence than MeZO, along with an average 2.5% accuracy boost across tasks on RoBERTa-large and OPT-1.3B.
-</details>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <div class="badge">Preprint</div>
+  <img src='images/papers/SGDR.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)
+
+**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <div class="badge">PAKDD 2026 Oral</div>
+  <img src='images/papers/MITS.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information](https://arxiv.org/abs/2510.03632)
+
+**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu, Ninghao Liu
+
 </div>
 </div>
 
