@@ -49,26 +49,19 @@
       flex: 0 0 220px;                   /* 固定列宽，紧凑 */
       max-width: 220px;
       min-width: 220px;
-      height: 120px;                     /* 固定卡片高度，统一所有图片 */
-      justify-content: center;
-      align-items: center;
+      justify-content: flex-start;
       margin-right: 0;
-      background: #fff;                  /* 白底，长宽比不同处留白 */
-      border-radius: 5px;
-      box-shadow: 2px 3px 5px #8a8a8a;   /* 阴影放到容器，卡片尺寸统一 */
-      overflow: hidden;
-      padding: 6px;                      /* 图片与卡片边缘留白 */
   }
 
   .paper-box .paper-box-image img {
-      max-width: 100%;                   /* 在卡片内完整显示 */
-      max-height: 100%;
-      width: auto;
-      height: auto;
+      width: 100%;                       /* 填满列宽 */
+      max-width: 100%;
+      height: auto;                      /* 保持原始比例 */
+      max-height: 130px;                 /* 高度上限，控制在一个范围内 */
       object-fit: contain;               /* 不裁剪不变形 */
       object-position: center;
-      box-shadow: none;                  /* 阴影已移到容器 */
-      border-radius: 0;
+      box-shadow: 2px 3px 5px #8a8a8a;   /* 阴影贴着图片 */
+      border-radius: 5px;
   }
   
   .paper-box .paper-box-text {
@@ -88,9 +81,12 @@
       width: 240px;
       min-width: 240px;
       max-width: 240px;
-      height: 130px;                     /* 固定卡片高度，统一所有图片 */
   }
-  
+
+  .paper-box .paper-box-image img {
+      max-height: 140px;                 /* 大屏高度上限 */
+  }
+
   .paper-box .paper-box-text {
       padding-left: 24px;                /* 大屏幕稍微增加间距 */
   }
@@ -129,9 +125,8 @@
   margin-left: -0.4em;                /* 适中左边距：-0.3em -> -0.4em */
 }
 
-/* 图片尺寸统一规则 - 卡片内水平垂直居中 */
+/* 图片尺寸统一规则 - 确保所有图片宽度一致 */
 .paper-box .paper-box-image {
   display: flex;
-  align-items: center;                /* 垂直居中 */
-  justify-content: center;            /* 水平居中 */
+  align-items: flex-start;            /* 图片顶部对齐 */
 }
