@@ -129,8 +129,9 @@
   margin-left: -0.4em;                /* 适中左边距：-0.3em -> -0.4em */
 }
 
-/* 图片尺寸统一规则 - 确保所有图片宽度一致 */
+/* 图片尺寸统一规则 - 卡片内水平垂直居中 */
 .paper-box .paper-box-image {
   display: flex;
-  align-items: flex-start;            /* 图片顶部对齐 */
+  align-items: center;                /* 垂直居中 */
+  justify-content: center;            /* 水平居中 */
 }
