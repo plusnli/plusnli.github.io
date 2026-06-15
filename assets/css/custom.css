@@ -4,8 +4,7 @@
   flex-direction: column;       /* 默认移动端：垂直排列 */
   align-items: flex-start;
   gap: 8px;                     /* 恢复适中间距：6px -> 8px */
-  border-bottom: 1px #efefef solid;
-  padding: 1.4em 0 1.4em 0;     /* 适中内边距：1.2em -> 1.4em（原版1.7em） */
+  padding: 1.1em 0 1.1em 0;     /* 紧凑内边距 */
   flex-wrap: nowrap;            /* 防止换行 */
 }
 
@@ -47,19 +46,19 @@
   
   .paper-box .paper-box-image {
       order: 1;                          /* 图片在左 */
-      flex: 0 0 33%;                     /* 调整至33%（31% -> 33%） */
-      max-width: 33%;
-      min-width: 180px;                  /* 适中最小宽度：160px -> 180px（原版200px） */
+      flex: 0 0 220px;                   /* 固定列宽，紧凑 */
+      max-width: 220px;
+      min-width: 220px;
       justify-content: flex-start;
       margin-right: 0;
   }
-  
+
   .paper-box .paper-box-image img {
-      width: 100%;                       /* 宽度统一填满容器 */
+      width: 100%;                       /* 宽度填满容器 */
       max-width: 100%;
-      height: 120px;                     /* 固定高度，统一所有图片 */
-      object-fit: cover;                 /* 裁剪图片以适应固定尺寸 */
-      object-position: center;           /* 居中裁剪 */
+      height: 105px;                     /* 固定高度，统一所有图片 */
+      object-fit: contain;               /* 完整显示，不裁剪不变形 */
+      object-position: center;
   }
   
   .paper-box .paper-box-text {
@@ -75,17 +74,16 @@
 /* 大屏幕进一步优化 */
 @media screen and (min-width: 1200px) {
   .paper-box .paper-box-image {
-      flex: 0 0 320px;                   /* 大屏幕增大水平长度：220px -> 320px */
-      width: 320px;
-      min-width: 320px;
-      max-width: 320px;
+      flex: 0 0 240px;                   /* 大屏幕略增列宽 */
+      width: 240px;
+      min-width: 240px;
+      max-width: 240px;
   }
-  
+
   .paper-box .paper-box-image img {
-      width: 320px;                      /* 对应调整水平长度 */
-      height: auto;                      /* 高度自适应，保持原始比例 */
-      max-height: 220px;                 /* 适当增加最大高度限制 */
-      object-fit: contain;               /* 完整显示图片，不裁剪 */
+      width: 100%;                       /* 填满列宽 */
+      height: 115px;                     /* 固定高度，统一所有图片 */
+      object-fit: contain;               /* 完整显示图片，不裁剪不变形 */
   }
   
   .paper-box .paper-box-text {

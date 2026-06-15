@@ -124,17 +124,3 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 
 <a href="https://clustrmaps.com/site/1c67i"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=V1E3PnXJSHWsLUVDYM88W42GIHb_kUaZXn5ehZkrHCk&cl=ffffff" /></a>
 
-<style>
-.paper-box-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-    overflow: hidden;
-}
-.paper-box-image img {
-    width: auto !important;
-    height: 100%;
-    object-fit: contain;
-}
-</style>
