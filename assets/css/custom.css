@@ -49,16 +49,26 @@
       flex: 0 0 220px;                   /* 固定列宽，紧凑 */
       max-width: 220px;
       min-width: 220px;
-      justify-content: flex-start;
+      height: 120px;                     /* 固定卡片高度，统一所有图片 */
+      justify-content: center;
+      align-items: center;
       margin-right: 0;
+      background: #fff;                  /* 白底，长宽比不同处留白 */
+      border-radius: 5px;
+      box-shadow: 2px 3px 5px #8a8a8a;   /* 阴影放到容器，卡片尺寸统一 */
+      overflow: hidden;
+      padding: 6px;                      /* 图片与卡片边缘留白 */
   }
 
   .paper-box .paper-box-image img {
-      width: 100%;                       /* 宽度填满容器 */
-      max-width: 100%;
-      height: 105px;                     /* 固定高度，统一所有图片 */
-      object-fit: contain;               /* 完整显示，不裁剪不变形 */
+      max-width: 100%;                   /* 在卡片内完整显示 */
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;               /* 不裁剪不变形 */
       object-position: center;
+      box-shadow: none;                  /* 阴影已移到容器 */
+      border-radius: 0;
   }
   
   .paper-box .paper-box-text {
@@ -78,12 +88,7 @@
       width: 240px;
       min-width: 240px;
       max-width: 240px;
-  }
-
-  .paper-box .paper-box-image img {
-      width: 100%;                       /* 填满列宽 */
-      height: 115px;                     /* 固定高度，统一所有图片 */
-      object-fit: contain;               /* 完整显示图片，不裁剪不变形 */
+      height: 130px;                     /* 固定卡片高度，统一所有图片 */
   }
   
   .paper-box .paper-box-text {
