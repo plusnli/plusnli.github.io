@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Large Language Models, Machine Reasoning and Agents.
+My research interests lie in Large Language Models, Machine Reasoning, and Agents.
 
 
 # 📝 Selected Publications
