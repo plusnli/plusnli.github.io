@@ -28,7 +28,6 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">Preprint</div>
   <img src='images/papers/SGDR.png' alt="sym" width="78%">
 </div></div>
 
@@ -38,13 +37,14 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 **Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu
 
+*Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
+
 </div>
 </div>
 
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">PAKDD 2026 Oral</div>
   <img src='images/papers/MITS.png' alt="sym" width="78%">
 </div></div>
 
@@ -54,13 +54,14 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 **Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu, Ninghao Liu
 
+*PAKDD 2026 (Oral)*. [[pdf](https://arxiv.org/pdf/2510.03632)] [[code](https://github.com/plusnli/MITS)]
+
 </div>
 </div>
 
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">NeurIPS 2025</div>
   <img src='images/papers/SymMPO.png' alt="sym" width="78%">
 </div></div>
 
@@ -70,13 +71,14 @@ My research interests lie in Machine Reasoning and Large Language Models.
 
 Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yin, Liqiang Nie
 
+*NeurIPS 2025*. [[pdf](https://arxiv.org/pdf/2506.11712)] [[code](https://github.com/plusnli/SymMPO)]
+
 </div>
 </div>
 
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">EMNLP 2025 Main</div>
   <img src='images/papers/helene_3.png' alt="sym" width="72%">
 </div></div>
 
@@ -86,13 +88,31 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu
 
+*EMNLP 2025 (Main)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
+
 </div>
 </div>
 
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
-  <div class="badge">Preprint</div>
+  <img src='images/papers/MedThink.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)
+
+Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, Cheyenna Espinoza, Lindsay Welton, Xinnie Mai, Yanwei Jin, Zidu Xu, Yuen-Hei Chung, Yiyun Xing, Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang
+
+*npj Digital Medicine 2025*. [[pdf](https://www.nature.com/articles/s41746-025-02208-7)] [[code](https://github.com/plusnli/MedThink-Bench)]
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
   <img src='images/papers/MKJ.png' alt="sym" width="78%">
 </div></div>
 
@@ -101,6 +121,8 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 [Fact or Guesswork? Evaluating Large Language Models' Medical Knowledge with Structured One-Hop Judgments](https://arxiv.org/abs/2502.14275)
 
 **Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu
+
+*Preprint*. [[pdf](https://arxiv.org/pdf/2502.14275)] [[code](https://github.com/plusnli/medical-knowledge-judgment)]
 
 </div>
 </div>
