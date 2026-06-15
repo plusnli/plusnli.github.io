@@ -135,7 +135,7 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 
 <table style="width:80%;max-width:200px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody><tr>
-    <td style="width:100%; vertical-align:middle; text-align:center;"><p>
+    <td style="width:100%; vertical-align:middle; text-align:center; border:0;"><p>
       <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=8oxqaZwan6ZhrzE0dKxhHYPV-XRp2dmlI-i8QQP2xF4'></script>
     </p></td>
   </tr></tbody>
