@@ -48,7 +48,7 @@ My research interests lie in Large Language Models, Machine Reasoning, and Agent
 <div class='paper-box-text' markdown="1">
 
 [MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual Information](https://arxiv.org/abs/2510.03632)<br>
-**Jiaxi Li**, Yucheng Shi, Xiao Huang, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
+**Jiaxi Li\***, Yucheng Shi\*, Xiao Huang, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
 *PAKDD 2026 (Oral)*. [[pdf](https://arxiv.org/pdf/2510.03632)] [[code](https://github.com/plusnli/MITS)]
 
 </div>
