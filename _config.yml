@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Jiaxi Li"
-description              : "If you focus on the LESSON, you will continue to GROW."
+# description              : "If you focus on the LESSON, you will continue to GROW."
+description              : "向前走 别回头"
 repository               : "plusnli/plusnli.github.io"
 google_scholar_stats_use_cdn : true
 
