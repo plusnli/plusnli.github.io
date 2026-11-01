@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My research interests lie in Large Language Models, Machine Reasoning, and Agents.
+My research interests lie in Large Language Models, Machine Reasoning, and Agents. My current research focuses on self-evolving agents that improve over time by mining learning signals from their own trajectories. I explore approaches such as skill evolution and failure attribution, which turn both successful and failed attempts into lessons for future tasks.
 
 
 # 📝 Core Publications and Research
@@ -148,8 +148,8 @@ Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, 
 
 
 # 📖 Education
-- *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 - *2024.08 - current*, University of Georgia, Ph.D. in Computer Science.
+- *2020.09 - 2024.06*, Shandong University, B.E. in Computer Science and Technology. 
 
 
 # 💬 Selected Presentations
