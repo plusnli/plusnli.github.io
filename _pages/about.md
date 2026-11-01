@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My current research focuses on **self-evolving agents that improve over time** by mining learning signals from their own trajectories. I explore approaches such as **skill evolution** and **failure attribution**, which turn both successful and failed attempts into lessons for future tasks.
+My current research focuses on ***self-evolving agents that improve over time*** by mining learning signals from their own trajectories. I explore approaches such as **skill evolution** and **failure attribution**, which turn both successful and failed attempts into lessons for future tasks.
 
 
 # 📝 Core Publications and Research
