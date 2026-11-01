@@ -22,7 +22,7 @@ Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia. I obtai
 My research interests lie in Large Language Models, Machine Reasoning, and Agents.
 
 
-# 📝 Selected Publications
+# 📝 Core Publications and Research
 \* Equal Contribution; $\dagger$ Corresponding Author.
 
 <div class='paper-box'>
@@ -34,7 +34,7 @@ My research interests lie in Large Language Models, Machine Reasoning, and Agent
 
 [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)<br>
 **Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
-*Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
+*Accepted in NeurIPS 2026 [TTCL Workshop](https://ttcl-agents.github.io/); Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
 
 </div>
 </div>
@@ -95,6 +95,38 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 [Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)<br>
 Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang$\dagger$<br>
 *npj Digital Medicine 2025*. [[pdf](https://www.nature.com/articles/s41746-025-02208-7)] [[code](https://github.com/plusnli/MedThink-Bench)]
+
+</div>
+</div>
+
+
+# 📚 Selected Publications
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <img src='images/papers/CoRE.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval](https://arxiv.org/abs/2610.14465)<br>
+Zhisheng Qi, Haoyu Han, **Jiaxi Li**, Bing He, Huiyuan Chen, Franck Dernoncourt, Ryan A. Rossi, Mahantesh M. Halappanavar, Jin Lu, Yu Zhang, Tianming Liu, Yu Wang<br>
+*Preprint*. [[pdf](https://arxiv.org/pdf/2610.14465)] [[code](https://github.com/charlieqi02/Co-Adaptive-Rule-Routing-and-Constraining-Retrieval-)]
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <img src='images/papers/GraphVerse.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://aclanthology.org/2026.emnlp-main.1989/)<br>
+Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan$\dagger$<br>
+*EMNLP 2026 (Main)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
 
 </div>
 </div>
