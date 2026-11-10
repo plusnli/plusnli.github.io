@@ -87,6 +87,23 @@ Wenqi Liu, Xuemeng Song$\dagger$, **Jiaxi Li**, Yinwei Wei, Na Zheng, Jianhua Yi
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
+  <img src='images/papers/RST.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[Recursive Synthesis for Long-Horizon Terminal Tasks](https://arxiv.org/abs/2608.05466)<br>
+Zhongzhi Li\*, Yucheng Shi\*, Zongxia Li\*, Ruhan Wang, Anhao Li, **Jiaxi Li**, Junyao Yang, ..., Ninghao Liu, Haitao Mi, Leowei Liang<br>
+*Preprint*. [[pdf](https://arxiv.org/pdf/2608.05466)] [[website](https://zhongzhi660.github.io/recursive-verified-synthesis-site/)] [[data](https://huggingface.co/collections/Zhongzhi1228/recursive-synthesis-for-long-horizon-terminal-tasks)]
+
+</div>
+</div>
+
+
+# 📚 Selected Publications
+
+<div class='paper-box'>
+<div class='paper-box-image'><div>
   <img src='images/papers/helene_3.png' alt="sym" width="72%">
 </div></div>
 
@@ -115,7 +132,20 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 </div>
 
 
-# 📚 Selected Publications
+<div class='paper-box'>
+<div class='paper-box-image'><div>
+  <img src='images/papers/GraphVerse.png' alt="sym" width="78%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://aclanthology.org/2026.emnlp-main.1989/)<br>
+Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan$\dagger$<br>
+*EMNLP 2026 (Main)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
+
+</div>
+</div>
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -127,21 +157,6 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 [Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval](https://arxiv.org/abs/2610.14465)<br>
 Zhisheng Qi, Haoyu Han, **Jiaxi Li**, Bing He, Huiyuan Chen, Franck Dernoncourt, Ryan A. Rossi, Mahantesh M. Halappanavar, Jin Lu, Yu Zhang, Tianming Liu, Yu Wang<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2610.14465)] [[code](https://github.com/charlieqi02/Co-Adaptive-Rule-Routing-and-Constraining-Retrieval-)]
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-image'><div>
-  <img src='images/papers/GraphVerse.png' alt="sym" width="78%">
-</div></div>
-
-<div class='paper-box-text' markdown="1">
-
-[GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://aclanthology.org/2026.emnlp-main.1989/)<br>
-Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan$\dagger$<br>
-*EMNLP 2026 (Main)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
 
 </div>
 </div>
