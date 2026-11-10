@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia, advised by [Prof. Jin Lu](https://jinlucs.github.io/), and working closely with [Prof. Yu Wang](https://yuwang0103.github.io/) and [Prof. Ninghao Liu](https://ninghaohello.github.io/). I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
+Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia, advised by [Prof. Jin Lu](https://jinlucs.github.io/) and working closely with [Prof. Yu Wang](https://yuwang0103.github.io/) and [Prof. Ninghao Liu](https://ninghaohello.github.io/). I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
 My current research focuses on ***self-evolving agents that improve over time*** by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[Online Skill Learning](https://arxiv.org/abs/2606.04391)] and **failure attribution**[[Forth-and-Back]()], which turn both successful and failed attempts into experiences and lessons for future tasks.
 
