@@ -113,7 +113,7 @@ Zhongzhi Li\*, Yucheng Shi\*, Zongxia Li\*, Ruhan Wang, Anhao Li, **Jiaxi Li**, 
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)<br>
 Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu$\dagger$<br>
-*EMNLP 2025 (Main)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
+*EMNLP 2025 (Main Conference)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
 
 </div>
 </div>
@@ -143,7 +143,7 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 
 [GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://aclanthology.org/2026.emnlp-main.1989/)<br>
 Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan$\dagger$<br>
-*EMNLP 2026 (Main)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
+*EMNLP 2026 (Main Conference)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
 
 </div>
 </div>
