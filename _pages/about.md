@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia, advised by [Prof. Jin Lu](https://jinlucs.github.io/) and working closely with [Prof. Yu Wang](https://yuwang0103.github.io/) and [Prof. Ninghao Liu](https://ninghaohello.github.io/). I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My current research focuses on ***self-evolving agents that improve over time*** by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[Online Skill Learning](https://arxiv.org/abs/2606.04391)] and **failure attribution**[[Forth-and-Back]()], which turn both successful and failed attempts into experiences and lessons for future tasks.
+My current research focuses on ***self-evolving agents that improve over time*** by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[SkillAny](https://arxiv.org/abs/2606.04391v2)] and **failure attribution**[[Forth-and-Back]()], which turn both successful and failed attempts into experiences and lessons for future tasks.
 
 I am actively seeking and open to any ***internship opportunities***. If my research aligns with your team's interests, please feel free to reach out at [jx.li@uga.edu](mailto:jx.li@uga.edu)!
 
@@ -49,9 +49,9 @@ I am actively seeking and open to any ***internship opportunities***. If my rese
 
 <div class='paper-box-text' markdown="1">
 
-[Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://arxiv.org/abs/2606.04391)<br>
-**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
-*Accepted in NeurIPS 2026 [TTCL Workshop](https://ttcl-agents.github.io/); Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
+[SkillAny: Online Skill Learning for Language Agents at Any Intermediate State](https://arxiv.org/abs/2606.04391v2)<br>
+**Jiaxi Li**, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Yuanfu Sun, Qiaoyu Tan, Jin Lu$\dagger$, Ninghao Liu$\dagger$<br>
+*Accepted in NeurIPS 2026 [TTCL Workshop](https://ttcl-agents.github.io/); Preprint*. [[pdf](https://arxiv.org/pdf/2606.04391v2)] [[code](https://github.com/plusnli/skill-dynamic-retrieval)]
 
 </div>
 </div>
