@@ -21,7 +21,7 @@ Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia, advised
 
 My current research focuses on ***self-evolving agents that improve over time*** by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[SkillAny]](https://arxiv.org/abs/2606.04391v2) and **failure attribution**[[Forth-and-Back]](), which turn both successful and failed attempts into experiences and lessons for future tasks.
 
-I am actively seeking and open to any ***internship opportunities***. If my research aligns with your team's interests, please feel free to reach out at [jx.li@uga.edu](mailto:jx.li@uga.edu)!
+I am actively seeking and open to any <span style="color:red"><strong><em>internship opportunities</em></strong></span>. If my research aligns with your team's interests, please feel free to reach out at [jx.li@uga.edu](mailto:jx.li@uga.edu)!
 
 
 # 📝 Core Publications and Research
