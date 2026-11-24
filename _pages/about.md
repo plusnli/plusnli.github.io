@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋I am Jiaxi Li, a Ph.D. student at the University of Georgia, advised by [Prof. Jin Lu](https://jinlucs.github.io/) and working closely with [Prof. Yu Wang](https://yuwang0103.github.io/) and [Prof. Ninghao Liu](https://ninghaohello.github.io/). I obtained my Bachelor's degree in Computer Science from Shandong University in June 2024.
 
-My current research focuses on <strong><em><span style="color:red">self-evolving agents</span> that improve over time</em></strong> by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[SkillAny]](https://arxiv.org/abs/2606.04391v2) and **failure attribution**[[Forth-and-Back]](), which turn both successful and failed attempts into experiences and lessons for future tasks.
+My current research focuses on <strong><em><span style="color:red">self-evolving agents</span> that improve over time</em></strong> by mining learning signals from **their own trajectories**. I explore approaches such as **skill evolution**[[SkillAny]](https://arxiv.org/abs/2606.04391v2) and **failure attribution**[[Forth-and-Back]](https://drive.google.com/file/d/1lf3vv8FMWBUVWlDrdnJjy_ZcFyDWdNiG/view?usp=sharing), which turn both successful and failed attempts into experiences and lessons for future tasks.
 
 I am actively seeking and open to any <span style="color:red"><strong><em>internship opportunities</em></strong></span>. If my research aligns with your team's interests, please feel free to reach out at [jx.li@uga.edu](mailto:jx.li@uga.edu)!
 
@@ -34,9 +34,9 @@ I am actively seeking and open to any <span style="color:red"><strong><em>intern
 
 <div class='paper-box-text' markdown="1">
 
-[Forth-and-Back: Self-Evolving Skill Learning through Back-propagated Failure Attribution]()<br>
+[Forth-and-Back: Self-Evolving Skill Learning through Back-propagated Failure Attribution](https://drive.google.com/file/d/1lf3vv8FMWBUVWlDrdnJjy_ZcFyDWdNiG/view?usp=sharing)<br>
 **Jiaxi Li**, et al.<br>
-*Preprint*; To be released soon.
+*Preprint*; To be released soon. [[pdf](https://drive.google.com/file/d/1lf3vv8FMWBUVWlDrdnJjy_ZcFyDWdNiG/view?usp=sharing)]
 
 </div>
 </div>
