@@ -35,7 +35,7 @@ I am actively seeking and open to any <span style="color:red"><strong><em>intern
 <div class='paper-box-text' markdown="1">
 
 [Forth-and-Back: Self-Evolving Skill Learning through Back-propagated Failure Attribution](https://drive.google.com/file/d/1lf3vv8FMWBUVWlDrdnJjy_ZcFyDWdNiG/view?usp=sharing)<br>
-**Jiaxi Li**, et al.<br>
+**Jiaxi Li**, Huaqin Zhao, Zhisheng Qi, Haowen Xu, Bing He, Zhongzhi Li, Ninghao Liu, Yu Wang, Jin Lu<br>
 *Preprint*; To be released soon. [[pdf](https://drive.google.com/file/d/1lf3vv8FMWBUVWlDrdnJjy_ZcFyDWdNiG/view?usp=sharing)]
 
 </div>
