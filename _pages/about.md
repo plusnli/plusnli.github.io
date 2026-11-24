@@ -25,7 +25,8 @@ I am actively seeking and open to any <span style="color:red"><strong><em>intern
 
 
 # 📝 Core Publications and Research
-\* Equal Contribution; $\dagger$ Corresponding Author.
+\* Equal Contribution.
+<!-- ; $\dagger$ Corresponding Author. -->
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -112,7 +113,7 @@ Zhongzhi Li\*, Yucheng Shi\*, Zongxia Li\*, Ruhan Wang, Anhao Li, **Jiaxi Li**, 
 <div class='paper-box-text' markdown="1">
 
 [HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization](https://arxiv.org/abs/2411.10696)<br>
-Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu$\dagger$<br>
+Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xiang Li, Fei Dou, Tianming Liu, Jin Lu<br>
 *EMNLP 2025 (Main Conference)*. [[pdf](https://arxiv.org/pdf/2411.10696)]
 
 </div>
@@ -127,7 +128,7 @@ Huaqin Zhao\*, **Jiaxi Li\***, Yi Pan, Shizhe Liang, Xiaofeng Yang, Wei Liu, Xia
 <div class='paper-box-text' markdown="1">
 
 [Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](https://www.nature.com/articles/s41746-025-02208-7)<br>
-Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang$\dagger$<br>
+Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, ..., Meng-Han Tsai, Emma Schaffer, Yucheng Shi, Ninghao Liu, Zirui Liu, Rui Zhang<br>
 *npj Digital Medicine 2025*. [[pdf](https://www.nature.com/articles/s41746-025-02208-7)] [[code](https://github.com/plusnli/MedThink-Bench)]
 
 </div>
@@ -142,7 +143,7 @@ Shuang Zhou\*, Wenya Xie\*, **Jiaxi Li\***, Zaifu Zhan, Meijia Song, Han Yang, .
 <div class='paper-box-text' markdown="1">
 
 [GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://aclanthology.org/2026.emnlp-main.1989/)<br>
-Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan$\dagger$<br>
+Yuanfu Sun\*, Yuanhang Ren\*, Kang Li\*, Chuanhao Ji, **Jiaxi Li**, Jiajin Liu, Ninghao Liu, Qiaoyu Tan<br>
 *EMNLP 2026 (Main Conference)*. [[pdf](https://aclanthology.org/2026.emnlp-main.1989.pdf)] [[code](https://github.com/sunyuanfu/GraphVerse)]
 
 </div>
@@ -172,7 +173,7 @@ Zhisheng Qi, Haoyu Han, **Jiaxi Li**, Bing He, Huiyuan Chen, Franck Dernoncourt,
 <div class='paper-box-text' markdown="1">
 
 [Fact or Guesswork? Evaluating Large Language Models' Medical Knowledge with Structured One-Hop Judgments](https://arxiv.org/abs/2502.14275)<br>
-**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu$\dagger$<br>
+**Jiaxi Li**, Yiwei Wang, Kai Zhang, Yujun Cai, Bryan Hooi, Nanyun Peng, Kai-Wei Chang, Jin Lu<br>
 *Preprint*. [[pdf](https://arxiv.org/pdf/2502.14275)] [[code](https://github.com/plusnli/medical-knowledge-judgment)]
 
 </div>
